@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-23T19:57:14+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/myblog/jekyll/update/2025/03/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-23T19:55:11+09:00</published><updated>2025-03-23T19:55:11+09:00</updated><id>http://localhost:4000/myblog/jekyll/update/2025/03/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/myblog/jekyll/update/2025/03/23/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="myblog" /><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/03/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-03T21:37:48+09:00</published><updated>2025-03-03T21:37:48+09:00</updated><id>http://localhost:4000/jekyll/update/2025/03/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/03/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">튀르키예 여행 정보</title><link href="http://localhost:4000/jekyll/update/2025/03/03/%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88.html" rel="alternate" type="text/html" title="튀르키예 여행 정보" /><published>2025-03-03T21:37:48+09:00</published><updated>2025-03-03T21:37:48+09:00</updated><id>http://localhost:4000/jekyll/update/2025/03/03/%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/03/%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88.html"><![CDATA[<hr />
+<p>layout: post
+title: “튀르키예 여행 계획: 공항, 도시, 날씨, 음식, 환율까지 완벽 정리”
+date: 2025-03-03 04:52 PST
+categories: travel
+tags: [turkiye, travel-plan, jekyll]
+—</p>
+
+<h1 id="튀르키예-여행-계획-공항-도시-날씨-음식-환율까지-완벽-정리">튀르키예 여행 계획: 공항, 도시, 날씨, 음식, 환율까지 완벽 정리</h1>
+
+<p>튀르키예(구 터키)는 유럽과 아시아가 만나는 독특한 지리적 위치와 풍부한 역사, 맛있는 음식으로 여행자들에게 사랑받는 곳입니다. 이 글에서는 튀르키예 여행을 계획하는 데 필요한 주요 정보를 정리했습니다. 주요 도착 공항, 항공편, 교통수단부터 도시와 관광지, 월별 기후, 음식, 환율 및 경제 정보까지 모두 담았으니 참고하세요!</p>
+
+<hr />
+
+<h2 id="주요-도착-공항-항공편-교통편">주요 도착 공항, 항공편, 교통편</h2>
+
+<h3 id="주요-도착-공항">주요 도착 공항</h3>
+<p>튀르키예의 주요 국제 공항은 다음과 같습니다:</p>
+<ul>
+  <li><strong>이스탄불 공항 (IST)</strong>: 세계에서 가장 바쁜 공항 중 하나로, 한국에서 직항편이 운행됩니다. 아시아와 유럽을 잇는 허브로, 대부분의 여행자가 여기로 입국합니다.</li>
+  <li><strong>사비하 괵첸 국제공항 (SAW)</strong>: 이스탄불 아시아 쪽에 위치한 보조 공항으로, 저가 항공사 이용 시 종착지일 수 있습니다.</li>
+  <li><strong>앙카라 에센보아 공항 (ESB)</strong>: 수도 앙카라로 바로 가는 경우 유용하지만, 직항은 드뭅니다.</li>
+</ul>
+
+<h3 id="항공편">항공편</h3>
+<ul>
+  <li><strong>직항</strong>: 서울 인천(ICN)에서 이스탄불(IST)까지 터키항공(Turkish Airlines)이 주 5~7회 운항합니다. 비행 시간은 약 11~12시간, 왕복 요금은 보통 100만~150만 원(비성수기 기준).</li>
+  <li><strong>경유</strong>: 아시아나, 에미레이트, 카타르항공 등으로 두바이, 도하 경유 옵션도 있으며, 비용은 80만~120만 원 수준.</li>
+  <li><strong>예약 팁</strong>: 성수기(6~9월)는 미리 예약하세요. Booking.com이나 Skyscanner로 비교 추천.</li>
+</ul>
+
+<h3 id="교통편">교통편</h3>
+<ul>
+  <li><strong>공항에서 시내</strong>: 이스탄불 공항(IST)에서는 Havaist 셔틀버스(약 50리라)나 택시(150~200리라)가 편리합니다. 사비하 괵첸(SAW)에서는 Havabus 이용.</li>
+  <li><strong>도시간 이동</strong>:
+    <ul>
+      <li><strong>시외버스</strong>: Metro Turizm, Pamukkale 등으로 저렴(이스탄불-앙카라 약 150리라).</li>
+      <li><strong>고속철도(YHT)</strong>: 이스탄불-앙카라(약 2.5시간, 100리라 내외).</li>
+      <li><strong>국내선 항공</strong>: Pegasus나 Turkish Airlines로 이스탄불-카파도키아(약 50~100리라).</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="주요-도시와-관광지">주요 도시와 관광지</h2>
+
+<h3 id="이스탄불">이스탄불</h3>
+<ul>
+  <li><strong>설명</strong>: 유럽과 아시아를 잇는 튀르키예 최대 도시.</li>
+  <li><strong>관광지</strong>:
+    <ul>
+      <li>아야소피아: 모스크와 박물관의 역사를 동시에.</li>
+      <li>톱카프 궁전: 오스만 제국의 화려함.</li>
+      <li>보스포러스 크루즈: 해협을 따라 도시 풍경 감상.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="카파도키아">카파도키아</h3>
+<ul>
+  <li><strong>설명</strong>: 독특한 지형과 열기구로 유명한 내륙 지역.</li>
+  <li><strong>관광지</strong>:
+    <ul>
+      <li>괴레메 야외 박물관: 고대 교회와 벽화.</li>
+      <li>우치히사르 성: 풍경 감상 포인트.</li>
+      <li>열기구 투어: 일출과 함께(최소 20만 원).</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="안탈리아">안탈리아</h3>
+<ul>
+  <li><strong>설명</strong>: 지중해 연안의 휴양지.</li>
+  <li><strong>관광지</strong>:
+    <ul>
+      <li>칼레이치: 역사적인 구시가지.</li>
+      <li>뒤덴 폭포: 자연과 휴식.</li>
+      <li>고대 도시 페르게: 로마 유적.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="기타-추천">기타 추천</h3>
+<ul>
+  <li><strong>앙카라</strong>: 수도, 아타튀르크 묘지.</li>
+  <li><strong>파묵칼레</strong>: 석회붕 온천과 히에라폴리스 유적.</li>
+</ul>
+
+<hr />
+
+<h2 id="월별-기후">월별 기후</h2>
+
+<p>튀르키예는 지역별로 기후가 다릅니다. 아래는 주요 도시 기준 월별 기온입니다:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>월</th>
+      <th>이스탄불 (℃)</th>
+      <th>카파도키아 (℃)</th>
+      <th>안탈리아 (℃)</th>
+      <th>특징</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1월</td>
+      <td>3~9</td>
+      <td>-4~4</td>
+      <td>6~15</td>
+      <td>겨울, 비/눈 가능</td>
+    </tr>
+    <tr>
+      <td>4월</td>
+      <td>8~16</td>
+      <td>5~15</td>
+      <td>11~21</td>
+      <td>봄, 여행 적기</td>
+    </tr>
+    <tr>
+      <td>7월</td>
+      <td>20~29</td>
+      <td>15~30</td>
+      <td>24~34</td>
+      <td>여름, 덥고 건조</td>
+    </tr>
+    <tr>
+      <td>10월</td>
+      <td>13~20</td>
+      <td>7~18</td>
+      <td>16~26</td>
+      <td>가을, 쾌적한 날씨</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>추천 시기</strong>: 4~5월, 9~10월 (온화하고 관광객 덜 붐빔).</li>
+  <li><strong>팁</strong>: 카파도키아 열기구는 날씨 영향을 많이 받으니 여유 일정 필요.</li>
+</ul>
+
+<hr />
+
+<h2 id="맛있는-음식">맛있는 음식</h2>
+
+<p>튀르키예는 미식의 천국입니다. 꼭 먹어봐야 할 음식들:</p>
+<ul>
+  <li><strong>케밥</strong>: 도너, 쉬쉬, 아다나 등 다양. (약 20~50리라)</li>
+  <li><strong>바클라바</strong>: 꿀과 견과류가 든 달콤한 디저트. (10~20리라)</li>
+  <li><strong>메네멘</strong>: 토마토와 계란의 간단한 아침 요리. (15~25리라)</li>
+  <li><strong>만트</strong>: 튀르키예식 만두, 요거트 소스와 함께. (20~40리라)</li>
+  <li><strong>터키 차이</strong>: 향긋한 홍차, 어디서나 즐김. (5~10리라)</li>
+</ul>
+
+<p><strong>팁</strong>: 관광지보다 로컬 식당에서 저렴하고 맛있게!</p>
+
+<hr />
+
+<h2 id="환율-및-경제-정보">환율 및 경제 정보</h2>
+
+<h3 id="환율-2025년-3월-기준-추정">환율 (2025년 3월 기준 추정)</h3>
+<ul>
+  <li><strong>터키 리라 (TRY)</strong>: 1 TRY ≈ 40~45 KRW (변동성 큼).</li>
+  <li><strong>환전 팁</strong>: 한국에서 리라 직접 환전 불가. 달러(USD)나 유로(EUR)를 준비한 뒤 현지에서 교환. 환율 변동이 크니 소액씩 자주 환전 추천.</li>
+</ul>
+
+<h3 id="경제-정보">경제 정보</h3>
+<ul>
+  <li>튀르키예는 OECD 및 G20 회원국으로, 서비스업(63.8%)과 산업(27.5%)이 경제를 주도.</li>
+  <li>물가: 이스탄불 기준 식사 50~100리라, 커피 20~30리라. 관광지 물가는 서울급.</li>
+  <li><strong>카드 사용</strong>: 비자/마스터카드 널리 사용 가능, ATM도 많음.</li>
+</ul>
+
+<hr />
+
+<h2 id="마무리">마무리</h2>
+
+<p>튀르키예 여행은 역사, 자연, 음식을 모두 즐길 수 있는 특별한 경험입니다. 이스탄불에서 시작해 카파도키아의 열기구를 타고, 안탈리아 해변에서 마무리하는 코스를 추천합니다. 질문이 있다면 댓글로 남겨주세요! 안전하고 즐거운 여행 되세요!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[layout: post title: “튀르키예 여행 계획: 공항, 도시, 날씨, 음식, 환율까지 완벽 정리” date: 2025-03-03 04:52 PST categories: travel tags: [turkiye, travel-plan, jekyll] —]]></summary></entry></feed>
